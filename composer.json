@@ -5,10 +5,9 @@
     "keywords": [ "wordpress", "plugin", "custom fields", "acf" ],
     "homepage": "http://www.advancedcustomfields.com/",
     "license": "GPLv2",
-    "version": "5.6.7",
     "extra": {
         "branch-alias": {
-            "dev-master": "5.x-dev"
+            "dev-master": "5.x"
         }
     }
 }
